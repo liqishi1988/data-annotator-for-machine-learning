@@ -22,6 +22,7 @@ import { FullNamePipe } from './pipes/full-name.pipe';
 import { ChartsModule } from 'ng2-charts/ng2-charts';
 import { FooterComponent } from './components/footer/footer.component';
 import { ProjectsComponent } from './components/projects/projects.component';
+import { RohanComponent } from './components/rohan/rohan.component';
 import { DropdownPageComponent } from './components/widgets/dropdown-page.component';
 import { AnnotateComponent } from './components/projects/annotate/annotate.component';
 import { AdminComponent } from './components/admin/admin.component';
@@ -65,6 +66,7 @@ import { MarkdownParserService } from './services/common/markdown-parser.service
     MathRoundPipe,
     FooterComponent,
     ProjectsComponent,
+    RohanComponent,
     DropdownPageComponent,
     AnnotateComponent,
     AdminComponent,
